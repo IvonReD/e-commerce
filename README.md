@@ -1,5 +1,5 @@
 # e-commerce
-E-commerce FEM es una app dirigida hacia la mujer, donde se emplea productos de cuidado e higiene personal. Se proporciona productos de calidad, con compras rápidas y pagos seguros.
+E-commerce FEMME es una app dirigida hacia la mujer, donde se emplea productos de cuidado e higiene personal. Se proporciona productos de calidad, con compras rápidas y pagos seguros.
 #### Descripcion
  En este proyecto se aplican los siguientes conceptos. 
  
