@@ -6,6 +6,9 @@ E-commerce FEM es una app dirigida hacia la mujer, donde se emplea productos de 
  - Templating -Routing (URLs)(segundo alcance) 
  - DOM 
  - Patrón de arquitectura de software (MVC) 
+ - Firebase
+ - Api de mercado libre
+ - Api de paypal
  - En todo el código se utiliza ECMAScript v6 Desarrollo del proyecto: 
  1. Se utilizó un template para la maqueta de la ecommerce, el cuál solo se modificó de acuerdo a las necesidades del proyecto. 
  2. Se realizó un llamado a la API de mercadolibre con el metodo fetch,el cual nos regresa un json de todos los productos con los siguientes datos:
@@ -14,4 +17,15 @@ E-commerce FEM es una app dirigida hacia la mujer, donde se emplea productos de 
  4. Se utilizó la API de PayPal para el método de pago que se encuentra en la vista checkout, que es donde se muestran todos los productos a comprar, y una vez que se realiza el pago la api nos regresa un número de confirmación de pago con folio para poder rastrear la transacción.
  5. Como segundo alcance se desear implementar el routing de URLS para hacer más dinámica y rápida la página.
  
- ![Imagen](https://octodex.github.com/images/ecommerce.jpg)
+ ![Imagen](./assets/ecommerce.jpg)
+
+#### Proyecto
+
+ ![Imagen](./assets/pag1.jpg)
+ ![Imagen](./assets/pag2.jpg)
+ ![Imagen](./assets/pag3.jpg)
+ ![Imagen](./assets/pag4.jpg)
+ ![Imagen](./assets/pag5.jpg)
+ 
+ ###### Elaborado con y para:
+ Laboratoria.
