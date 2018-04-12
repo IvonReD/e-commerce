@@ -17,7 +17,6 @@ E-commerce FEMME es una app dirigida hacia la mujer, donde se emplea productos d
  4. Se utilizó la API de PayPal para el método de pago que se encuentra en la vista checkout, que es donde se muestran todos los productos a comprar, y una vez que se realiza el pago la api nos regresa un número de confirmación de pago con folio para poder rastrear la transacción.
  5. Como segundo alcance se desear implementar el routing de URLS para hacer más dinámica y rápida la página.
  
- ![Imagen](./assets/ecommerce.jpg)
 
 #### Proyecto
 
