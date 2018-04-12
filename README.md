@@ -21,7 +21,7 @@ E-commerce FEMME es una app dirigida hacia la mujer, donde se emplea productos d
 
 #### Proyecto
 
- ![Imagen](./assets/pag1.jpg)
+ ![Imagen](https://raw.githubusercontent.com/IvonReD/e-commerce/master/assets/pag1.jpg)
  ![Imagen](./assets/pag2.jpg)
  ![Imagen](./assets/pag3.jpg)
  ![Imagen](./assets/pag4.jpg)
